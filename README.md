@@ -1,1 +1,1 @@
-# DAP-Data-Analyisis-Project--Machine_Learning-_Basic_Principles
+# DAP Data Analyisis Project - Machine Learning Basic Principles (Aalto University - November 2018)
